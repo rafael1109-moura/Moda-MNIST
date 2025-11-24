@@ -8,6 +8,7 @@ O objetivo principal é classificar imagens de artigos de vestuário em 10 categ
 
 
 Tecnologias Utilizadas
+
 Python
 
 TensorFlow
